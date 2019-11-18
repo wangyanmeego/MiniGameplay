@@ -1,1 +1,1 @@
-# MiniGameplay
+# 对于具体游戏的玩法的描述以及完整实现。（基于Unity3D）
